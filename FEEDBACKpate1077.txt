@@ -1,0 +1,63 @@
+24-March-2021 11:58:48---Student (A2): pate1077
+24-March-2021 11:58:48----Compile Test: Code different than starter code ---STARTER OK
+24-March-2021 11:58:48----Compile Test: Code not malicious ---CODE OK
+24-March-2021 11:58:48----Code compiles with starter NiceMakefile (allowing warnings):PASS
+24-March-2021 11:58:49----Code compiles with starter Makefile (no warnings):PASS
+24-March-2021 11:58:50----Test size 2  (output)---PASS
+24-March-2021 11:58:50----Test size 2  (0 processes created)---PASS
+24-March-2021 11:58:50----Test size 2  (distance mp)---PASS
+24-March-2021 11:58:50----Test size 2  (distance sp)---PASS
+24-March-2021 11:58:50----Test size 2  (mp time)---PASS
+24-March-2021 11:58:50----Test size 2  (sp time)---PASS
+24-March-2021 11:58:50----Test size 4  (output)---PASS
+24-March-2021 11:58:50----Test size 4  (2 processes created)---PASS
+24-March-2021 11:58:50----Test size 4  (distance mp)---PASS
+24-March-2021 11:58:50----Test size 4  (distance sp)---PASS
+24-March-2021 11:58:50----Test size 4  (mp time)---PASS
+24-March-2021 11:58:50----Test size 4  (sp time)---PASS
+24-March-2021 11:58:51----Test size 10  (output)---PASS
+24-March-2021 11:58:51----Test size 10  (distance mp)---PASS
+24-March-2021 11:58:51----Test size 10  (distance sp)---PASS
+24-March-2021 11:58:51----Test size 10  (mp time)---PASS
+24-March-2021 11:58:51----Test size 10  (sp time)---PASS
+24-March-2021 11:58:52----Test size 1000  (output)---PASS
+24-March-2021 11:58:52----Test size 1000  (distance mp)---PASS
+24-March-2021 11:58:52----Test size 1000  (distance sp)---PASS
+24-March-2021 11:58:52----Test size 1000  (mp time)---PASS
+24-March-2021 11:58:52----Test size 1000  (sp time)---PASS
+24-March-2021 11:58:52----Test size 100000  (output)---PASS
+24-March-2021 11:58:52----Test size 100000  (distance mp)---PASS
+24-March-2021 11:58:52----Test size 100000  (distance sp)---PASS
+24-March-2021 11:58:52----Test size 100000  (mp time)---PASS
+24-March-2021 11:58:52----Test size 100000  (sp time)---PASS
+24-March-2021 11:58:53----Test size 1 Million  (distance mp)---PASS
+24-March-2021 11:58:55----Test size 1 Million  (distance sp)---PASS
+24-March-2021 11:58:55----Test size 1 Million  (mp time)---PASS
+24-March-2021 11:58:55----Test size 1 Million  (sp time)---PASS
+24-March-2021 11:58:56----Test size 2 Million  (distance mp)---PASS
+24-March-2021 11:59:01----Test size 2 Million  (distance sp)---PASS
+24-March-2021 11:59:01----Test size 2 Million  (mp time)---PASS
+24-March-2021 11:59:01----Test size 2 Million  (sp time)--- 3058.45 expected within 2666ms FAIL (time)
+24-March-2021 11:59:02----Test size 5 Million  (distance mp)---PASS
+24-March-2021 11:59:18----Test size 5 Million  (distance sp)---PASS
+24-March-2021 11:59:18----Test size 5 Million  (mp time)---PASS
+24-March-2021 11:59:18----Test size 5 Million  (sp time)--- 10957.87 expected within 1000ms - 8000ms FAIL
+24-March-2021 11:59:20----Test size 10 Million  (distance mp)---PASS
+24-March-2021 11:59:25----Test size 10 Million  (mp time)--- 3353.62 expected within 1666ms FAIL
+24-March-2021 11:59:26----Test size 10 Lopsided  (distance mp)---PASS
+24-March-2021 11:59:26----Test size 10 Lopsided  (distance sp)---PASS
+24-March-2021 11:59:26----Test size 10 Lopsided  (mp time)---PASS
+24-March-2021 11:59:26----Test size 10 Lopsided  (sp time)---PASS
+24-March-2021 11:59:26----Test size 1 Million All the Same points  (distance mp)---PASS
+24-March-2021 11:59:29----Test size 1 Million All the Same points  (distance sp)---PASS
+24-March-2021 11:59:29----Test size 1 Million All the Same points  (mp time)---PASS
+24-March-2021 11:59:29----Test size 1 Million All the Same points  (sp time)---PASS
+24-March-2021 11:59:29----Test size 2 Overflow  (distance mp)---PASS
+24-March-2021 11:59:29----Test size 2 Overflow  (distance sp)---PASS
+24-March-2021 11:59:29----Test size 2 Overflow  (mp time)---PASS
+24-March-2021 11:59:29----Test size 2 Overflow  (sp time)---PASS
+24-March-2021 11:59:30----Test check comp_x in closest_parallel:  (output)---PASS
+24-March-2021 11:59:30----Test check comp_y in closest_serial:  (output)---PASS
+24-March-2021 11:59:30----Test check base case:  (output)---PASS
+24-March-2021 11:59:30--- SCORE 55.0/58
+24-March-2021 11:59:30 FINISHED
